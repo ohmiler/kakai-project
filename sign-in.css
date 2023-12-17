@@ -1,0 +1,17 @@
+html,
+body {
+  height: 100%;
+}
+
+.container {
+  margin: 10px;
+}
+
+.form-signin {
+  max-width: 330px;
+  padding: 1rem;
+}
+
+.form-signin .form-floating:focus-within {
+  z-index: 2;
+}
